@@ -14,7 +14,7 @@ Questions arise: is it platform-specific? Can hypergridding be generalized? Thes
 
 **Spotlight on the Living Community:** While its foundations can be traced back to its initial conceptualization, the hypergrid's true strength lies in the ongoing contributions of countless developers, grid operators, content creators, educators, community builders, and anyone seeking connection, discovery, and new experiences across vast digital frontiers.
 
-<details><summary>Resources for Further Exploration:</summary>
+<details><summary>Resources for Further Exploration</summary>
 
 - http://opensimulator.org/wiki/Hypergrid
 - https://ics.uci.edu/~lopes/opensim/HypergridReferenceGuide.html
@@ -30,3 +30,6 @@ Questions arise: is it platform-specific? Can hypergridding be generalized? Thes
 - https://www.hypergridbusiness.com/2020/10/hypergrid-turns-12-today/ 
 
 </details>
+
+Meanwhile, the hypergrid hums along -- a testament to its resilience. A nascent effort is underway to [document the collaborative forces](https://github.com/metaverse-crossroads/hypergrid-junction/wiki/Hypergrid-Collaboration-Landscape) that keep it going.
+
